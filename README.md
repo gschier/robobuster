@@ -13,7 +13,7 @@ For more detailed usage see the `test.js` script.
 
 ``` js
 var assert     = require('assert');
-var RoboBuster = require('./RoboBuster');
+var RoboBuster = require('robobuster');
 
 // Tests are run within whatever scope is passed (ex: this)
 var buster = new RoboBuster(this, 'Name Of Test Suite');
@@ -39,9 +39,9 @@ RoboBuster:  \ Finished busting up Sample Test Suite
 RoboBuster:   | Passed all 1 tests
 ```
 
-## Run RoboBust on Itself
+## Run RoboBuster on Itself
 
-Want to see RoboBust beat itself up?
+Want to see RoboBuster beat itself up?
 
 ``` shell
 # run from root module directory

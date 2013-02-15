@@ -1,6 +1,6 @@
 {
   "name": "robobuster",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "A very simple test runner. See README for example usage.",
   "keywords": [ "test", "runner" ],
   "author": "Gregory Schier <greg@schier.co>",
