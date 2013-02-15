@@ -1,0 +1,16 @@
+{
+  "name": "robobuster",
+  "version": "0.8.0",
+  "description": "A very simple test runner. See README.md for example usage.",
+  "keywords": [ "test", "runner" ],
+  "author": "Gregory Schier <greg@schier.co>",
+  "main": "RoboBuster",
+  "dependencies": {
+    "colors": "*"
+  },
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": "",
+  "license": "BSD"
+}
